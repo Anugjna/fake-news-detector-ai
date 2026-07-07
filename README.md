@@ -16,4 +16,6 @@ How to Run the Application:
 1. Install dependencies: pip install -r requirements.txt
 2. Run the app: streamlit run app.py
 
+Live Demo Link: [https://fakenews-anugjna.streamlit.app/]
+
 Technologies Used: Python, Streamlit, Scikit-learn, Pandas, TF-IDF
